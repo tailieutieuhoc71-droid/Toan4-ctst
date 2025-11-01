@@ -1,0 +1,5 @@
+{
+  "name": "Toán 4 siêu dễ cùng thầy Ân",
+  "description": "An interactive math tutor app for 4th-grade students, based on the 'Chân trời sáng tạo' textbook. It uses AI to generate personalized quizzes for each lesson, providing a fun and engaging way to practice and master math concepts.",
+  "requestFramePermissions": []
+}
